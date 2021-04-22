@@ -6,7 +6,7 @@
 - [HexPM](https://github.com/CrazyWillBear/HexPM)
    - A package manager for Windows 10 (out of development, limited packages)
 
-#### How to reach out to me:
+#### How to reach me:
 - Discord: `@white boy#1607`
 - Email: `crazywillbear@gmail.com`
 - Instagram: `@captainbear_will`
