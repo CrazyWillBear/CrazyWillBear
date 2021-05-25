@@ -5,6 +5,8 @@
    - A commandline application for managing Minecraft servers
 - [HexPM](https://github.com/CrazyWillBear/HexPM)
    - A package manager for Windows 10 (out of development, limited packages)
+- [CrazyWillBear.github.io](https://CrazyWillBear.github.io)
+   - My personal website
 
 #### How to reach me:
 - <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-u2013-swiss-geeks-23.png" width="16" height="16" /> Discord: [@white boy#1607](https://discord.com/users/480455714272444426)
