@@ -1,10 +1,10 @@
 # I'm CaptainBear (aka Will)
 
 #### Stuff you should check out:
+- [pig](https://github.com/CrazyWillBear/pig)
+   - A Git repository package manager for Linux coded in Rust
 - [MinecraftServerManager](https://github.com/CrazyWillBear/MinecraftServerManager)
    - A commandline application for managing Minecraft servers
-- [HexPM](https://github.com/CrazyWillBear/HexPM)
-   - A package manager for Windows 10 (out of development, limited packages)
 - [CrazyWillBear.github.io](https://CrazyWillBear.github.io) [(repo)](https://github.com/CrazyWillBear/CrazyWillBear.github.io)
    - My personal website
 
