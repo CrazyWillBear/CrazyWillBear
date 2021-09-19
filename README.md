@@ -3,6 +3,8 @@
 #### Stuff you should check out:
 - [pig](https://github.com/CrazyWillBear/pig)
    - A Git repository package manager for Linux coded in Rust
+- [blockchain-example](https://github.com/CrazyWillBear/blockchain-example)
+   - An example of a blockchain (on a small scale) coded in C++ for educational purposes.
 - [MinecraftServerManager](https://github.com/CrazyWillBear/MinecraftServerManager)
    - A commandline application for managing Minecraft servers
 - [CrazyWillBear.github.io](https://CrazyWillBear.github.io) [(repo)](https://github.com/CrazyWillBear/CrazyWillBear.github.io)
