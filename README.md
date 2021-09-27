@@ -1,6 +1,8 @@
 # I'm CaptainBear (aka Will)
 
 #### Stuff you should check out:
+- [wilpac](https://github.com/CrazyWillBear/wilpac)
+   - A package manager with wilcus in mind, working for Linux in the meantime
 - [pig](https://github.com/CrazyWillBear/pig)
    - A Git repository package manager for Linux coded in Rust
 - [blockchain-example](https://github.com/CrazyWillBear/blockchain-example)
