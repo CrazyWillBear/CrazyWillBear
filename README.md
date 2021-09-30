@@ -19,4 +19,4 @@
 - <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" width="16" height="16" /> Email: [crazywillbear@gmail.com](mailto:crazywillbear@gmail.com)
 - <img src="https://instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" width="16" height="16" /> Instagram: [@captainbear_will](https://www.instagram.com/captainbear_will/)
 
-![alt text](https://github.com/CrazyWillBear/CrazyWillBear/blob/main/github-metrics.svg)
+![Metrics](https://github.com/CrazyWillBear/CrazyWillBear/blob/main/github-metrics.svg)
