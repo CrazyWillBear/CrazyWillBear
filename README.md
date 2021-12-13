@@ -1,6 +1,8 @@
 # I'm CaptainBear (aka Will)
 
 #### Stuff you should check out:
+- [yes-replacement](https://github.com/CrazyWillBear/yes-replacement)
+   - A replacement for the coreutil `yes` written in Rust. Made for research purposes and to prove that simple programs can have simple code.
 - [wilpac](https://github.com/CrazyWillBear/wilpac)
    - A package manager with wilcus in mind, working for Linux in the meantime
 - [pig](https://github.com/CrazyWillBear/pig)
