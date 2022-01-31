@@ -11,8 +11,6 @@
    - An example of a blockchain (on a small scale) coded in C++ for educational purposes.
 - [bench](https://github.com/CrazyWillBear/bench)
    - A benchmarking tool coded in Rust, designed to be lightweight and allow for programs to be ran with arguments and interactions.
-- [MinecraftServerManager](https://github.com/CrazyWillBear/MinecraftServerManager)
-   - A commandline application for managing Minecraft servers
 - [CrazyWillBear.github.io](https://CrazyWillBear.github.io) [(repo)](https://github.com/CrazyWillBear/CrazyWillBear.github.io)
    - My personal website
 
