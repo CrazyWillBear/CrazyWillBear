@@ -1,5 +1,5 @@
 # I'm CaptainBear (aka Will)
-I am a 16 year old high school student living in the Bay Area. I am a U17 rower for NorCal crew, a coder in my spare time, a Linux enthusiast, a gamer, and a skier. I one day hope to be a software engineer.
+I am a 16 year old high school student living in the Bay Area. I am a U17 rower for NorCal crew, coder, Linux enthusiast, gamer, and skier. I one day hope to be a software engineer.
 
 #### Stuff you should check out:
 - [wilpac](https://github.com/CrazyWillBear/wilpac)
