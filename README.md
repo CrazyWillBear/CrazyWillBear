@@ -1,18 +1,19 @@
 # I'm CaptainBear (aka Will)
+I am a 16 year old high school student living in the Bay Area. I am a U17 rower for NorCal crew, a coder in my spare time, a Linux enthusiast, a gamer, and a skier. I one day hope to be a software engineer.
 
 #### Stuff you should check out:
-- [yes-replacement](https://github.com/CrazyWillBear/yes-replacement)
-   - A replacement for the coreutil `yes` written in Rust. Made for research purposes and to prove that simple programs can have simple code.
 - [wilpac](https://github.com/CrazyWillBear/wilpac)
    - A package manager with wilcus in mind, working for Linux in the meantime
-- [pig](https://github.com/CrazyWillBear/pig)
-   - A Git repository package manager for Linux coded in Rust
+- [yes-replacement](https://github.com/CrazyWillBear/yes-replacement)
+   - A replacement for the coreutil `yes` written in Rust. Made for research purposes and to prove that simple programs can have simple code.
 - [blockchain-example](https://github.com/CrazyWillBear/blockchain-example)
    - An example of a blockchain (on a small scale) coded in C++ for educational purposes.
 - [bench](https://github.com/CrazyWillBear/bench)
    - A benchmarking tool coded in Rust, designed to be lightweight and allow for programs to be ran with arguments and interactions.
 - [CrazyWillBear.github.io](https://CrazyWillBear.github.io) [(repo)](https://github.com/CrazyWillBear/CrazyWillBear.github.io)
    - My personal website
+- [pig](https://github.com/CrazyWillBear/pig)
+   - A Git repository package manager for Linux coded in Rust
 
 #### How to reach me:
 - <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-u2013-swiss-geeks-23.png" width="16" height="16" /> Discord: [@capbear#1607](https://discord.com/users/480455714272444426)
