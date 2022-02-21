@@ -3,7 +3,9 @@ I am a 16 year old high school student living in the Bay Area. I am a U17 rower 
 
 #### Stuff you should check out:
 - [wilpac](https://github.com/CrazyWillBear/wilpac)
-   - A package manager with wilcus in mind, working for Linux in the meantime
+   - A package manager with wilcus in mind, working for Linux in the meantime.
+- [wordle-solver](https://github.com/CrazyWillBear/wordle-solver)
+   - A program to help solve Wordles.
 - [yes-replacement](https://github.com/CrazyWillBear/yes-replacement)
    - A replacement for the coreutil `yes` written in Rust. Made for research purposes and to prove that simple programs can have simple code.
 - [blockchain-example](https://github.com/CrazyWillBear/blockchain-example)
@@ -11,9 +13,9 @@ I am a 16 year old high school student living in the Bay Area. I am a U17 rower 
 - [bench](https://github.com/CrazyWillBear/bench)
    - A benchmarking tool coded in Rust, designed to be lightweight and allow for programs to be ran with arguments and interactions.
 - [CrazyWillBear.github.io](https://CrazyWillBear.github.io) [(repo)](https://github.com/CrazyWillBear/CrazyWillBear.github.io)
-   - My personal website
+   - My personal website.
 - [pig](https://github.com/CrazyWillBear/pig)
-   - A Git repository package manager for Linux coded in Rust
+   - A Git repository package manager for Linux coded in Rust.
 
 #### How to reach me:
 - <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-u2013-swiss-geeks-23.png" width="16" height="16" /> Discord: [@capbear#1607](https://discord.com/users/480455714272444426)
