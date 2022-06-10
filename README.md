@@ -2,6 +2,8 @@
 I am a 17 year old high school student living in the Bay Area. I am a U19 rower for NorCal crew, coder, Linux enthusiast, gamer, and skier. I one day hope to be a software engineer.
 
 #### Stuff you should check out:
+- [concrete-greeter](https://github.com/CrazyWillBear/concrete-greeter)
+   - A terminal greeter named after concrete because funny.
 - [wilpac](https://github.com/CrazyWillBear/wilpac)
    - A package manager with wilcus in mind, working for Linux in the meantime.
 - [wordle-solver](https://github.com/CrazyWillBear/wordle-solver)
