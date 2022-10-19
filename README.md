@@ -21,7 +21,7 @@ I am a 17 year old high school student living in the Bay Area. I am a U19 rower 
 
 ### How to reach me:
 - <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-u2013-swiss-geeks-23.png" width="16" height="16" /> Discord: [@capbear#1607](https://discord.com/users/480455714272444426)
-- <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" width="16" height="16" /> Email: [crazywillbear@gmail.com](mailto:crazywillbear@gmail.com)
+- <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" width="16" height="16" /> Email: [will@capbear.net](mailto:will@capbear.net)
 - <img src="https://instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" width="16" height="16" /> Instagram: [@captainbear_will](https://www.instagram.com/captainbear_will/)
 
 ### Favorite Quote:
