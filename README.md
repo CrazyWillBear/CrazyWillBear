@@ -6,15 +6,11 @@ I am a 17 year old high school student living in the Bay Area. I am a U19 rower 
    - A terminal greeter named after concrete because funny.
 - [wilpac](https://github.com/CrazyWillBear/wilpac)
    - A package manager with wilcus in mind, working for Linux in the meantime.
-- [wordle-solver](https://github.com/CrazyWillBear/wordle-solver)
-   - A program to help solve Wordles.
 - [yes-replacement](https://github.com/CrazyWillBear/yes-replacement)
    - A replacement for the coreutil `yes` written in Rust. Made for research purposes and to prove that simple programs can have simple code.
 - [blockchain-example](https://github.com/CrazyWillBear/blockchain-example)
    - An example of a blockchain (on a small scale) coded in C++ for educational purposes.
-- [bench](https://github.com/CrazyWillBear/bench)
-   - A benchmarking tool coded in Rust, designed to be lightweight and allow for programs to be ran with arguments and interactions.
-- [CrazyWillBear.github.io](https://CrazyWillBear.github.io) [(repo)](https://github.com/CrazyWillBear/CrazyWillBear.github.io)
+- [capbear.net](https://www.capbear.net) [(repo)](https://github.com/CrazyWillBear/my-website)
    - My personal website.
 - [pig](https://github.com/CrazyWillBear/pig)
    - A Git repository package manager for Linux coded in Rust.
