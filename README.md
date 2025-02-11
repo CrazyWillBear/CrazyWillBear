@@ -4,7 +4,7 @@ I am 19 and currently living in Pennsylvania (although I'm originally from the B
 ### Stuff you should check out:
 - [capbear.net](https://www.capbear.net) [(repo)](https://github.com/CrazyWillBear/my-website)
    - My personal website.
-- [ufc_prediction_model]([https://github.com/CrazyWillBear/wilpac](https://github.com/CrazyWillBear/ufc_prediction_model))
+- [ufc_prediction_model](https://github.com/CrazyWillBear/ufc_prediction_model)
    - A neural network model that predicts UFC fight outcomes trained on historical fight data.
 - [linkedlist-cpp](https://github.com/CrazyWillBear/linkedlist-cpp)
    - A linked list in C++ for learning purposes.
