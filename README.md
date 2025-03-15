@@ -16,6 +16,6 @@ I am 19 and currently living in Pennsylvania (although I'm originally from the B
 - <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" width="16" height="16" /> Email: [will.chastain@bucknell.edu](mailto:will.chastain@bucknell.edu)
 
 ### Favorite Quote:
-"Let me at least not die without a struggle, inglorious, but do some big thing first, that men to come shall know of it."  *- Iliad of Homer, 22:304-305*
+"Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good."  -*Meditations by Marcus Aurelius, 4.17*
 
 ![Metrics](https://github.com/CrazyWillBear/CrazyWillBear/blob/main/github-metrics.svg)
