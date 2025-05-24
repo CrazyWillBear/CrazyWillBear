@@ -1,9 +1,10 @@
-# Hi, I'm Will C
-I am 19 and currently living in Pennsylvania (although I'm originally from the Bay Area). I study Computer Science and Engineering at Bucknell University, am a brother of the Sigma Alpha Epsilon fraternity, and am a fan of baseball, UFC, football, and basketball. One day, I hope to work in the fields of computer and/or data science.
+# Hi, I'm Will C 👋
+
+I'm 20 and currently living in Pennsylvania (although I'm originally from the Bay Area). I study Computer Science and Engineering at Bucknell University, am a brother of the Sigma Alpha Epsilon fraternity, and am a Bay Area sports fan. One day, I hope to work in the fields of computer and/or data science.
 
 ### Stuff you should check out:
-- [capbear.net](https://www.capbear.net) [(repo)](https://github.com/CrazyWillBear/my-website)
-   - My personal website.
+- [blogman](https://github.com/CrazyWillBear/blogman)
+   - A blog engine/managing software that allows posts to be easily written in Markdown and automatically implemented.
 - [ufc_prediction_model](https://github.com/CrazyWillBear/ufc_prediction_model)
    - A neural network model that predicts UFC fight outcomes trained on historical fight data.
 - [linkedlist-cpp](https://github.com/CrazyWillBear/linkedlist-cpp)
