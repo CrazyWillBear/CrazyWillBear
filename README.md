@@ -5,10 +5,10 @@ I'm 20 and currently living in Pennsylvania (although I'm originally from the Ba
 ### Stuff you should check out:
 - [blogman](https://github.com/CrazyWillBear/blogman)
    - A blog engine/managing software that allows posts to be easily written in Markdown and automatically implemented.
+- [key](https://github.com/CrazyWillBear/key)
+   - A command-line utility for securely encrypting and decrypting files using a key + password combo.
 - [ufc_prediction_model](https://github.com/CrazyWillBear/ufc_prediction_model)
    - A neural network model that predicts UFC fight outcomes trained on historical fight data.
-- [linkedlist-cpp](https://github.com/CrazyWillBear/linkedlist-cpp)
-   - A linked list in C++ for learning purposes.
 - [wilpac](https://github.com/CrazyWillBear/wilpac)
    - Although never finished, this was an attempt at a UNIX package manager. Still proud of the techniques and style used.
 
