@@ -33,12 +33,10 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: Makefile, PHP, ASP.NET, HTML, CSS, CMake
+          plugin_languages_ignored: Makefile, PHP, ASP.NET, HTML, CSS, CMake, Shell, PowerShell
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_skipped: CrazyWillBear/MCServer
           plugin_languages_threshold: 0%
-          repositories_skipped: CrazyWillBear/MCServer
