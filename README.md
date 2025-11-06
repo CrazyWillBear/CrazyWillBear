@@ -1,16 +1,16 @@
 # Hi, I'm Will C 👋
 
-I'm 20 and currently living in Pennsylvania (although I'm originally from the Bay Area). I study Computer Science and Engineering at Bucknell University, am a brother of the Sigma Alpha Epsilon fraternity, and am a Bay Area sports fan. One day, I hope to work in the fields of computer and/or data science.
+I'm 20, studying Computer Science and Engineering at Bucknell University as a brother of the Sigma Alpha Epsilon fraternity. My *(technical)* interests lie in applied LLM engineering. I'm particularly drawn towards orchestrating LLMs with [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) *(often in the form of agents and workflows)* and integrating them into larger applications. My current project, [which as of yet has no name](https://github.com/CrazyWillBear/research-langgraph), is a philosophy research agent that will later be implemented into a full-scale chat application. My friend [gloggers99](https://github.com/gloggers99) is focusing on the backend in Rust while I focus on the agent.
 
-### Stuff you should check out:
-- [blogman](https://github.com/CrazyWillBear/blogman)
+### Other stuff you should check out:
+- [blogman](https://github.com/CrazyWillBear/blogman) or [the actual blog](https://writing.capbear.net)
    - A blog engine/managing software that allows posts to be easily written in Markdown and automatically implemented.
 - [key](https://github.com/CrazyWillBear/key)
    - A command-line utility for securely encrypting and decrypting files using a key + password combo.
 - [ufc_prediction_model](https://github.com/CrazyWillBear/ufc_prediction_model)
    - A neural network model that predicts UFC fight outcomes trained on historical fight data.
 - [wilpac](https://github.com/CrazyWillBear/wilpac)
-   - Although never finished, this was an attempt at a UNIX package manager. Still proud of the techniques and style used.
+   - An early attempt of mine to make a package manager in C++. *(This is old, don't come here for great code!)*
 
 ### How to reach me:
 - <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-u2013-swiss-geeks-23.png" width="16" height="16" /> Discord: [@capbear](https://discord.com/users/480455714272444426)
