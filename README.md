@@ -21,7 +21,12 @@ My current project, [Cogito](https://github.com/CrazyWillBear/research-langgraph
 - <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" width="16" height="16" /> Email: [will.chastain@bucknell.edu](mailto:will.chastain@bucknell.edu)
 
 ## Favorite Quotes:
-"Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good."  - *Meditations* by Marcus Aurelius
-"The world is my representation."  - *The World as Will and Representation* by Arthur Schopenhauer
+"Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good."
+
+- *Meditations* by Marcus Aurelius
+
+"The world is my representation."
+
+- *The World as Will and Representation* by Arthur Schopenhauer
 
 ![Metrics](https://github.com/CrazyWillBear/CrazyWillBear/blob/main/github-metrics.svg)
