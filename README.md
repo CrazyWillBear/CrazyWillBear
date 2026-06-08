@@ -1,28 +1,33 @@
 # Hi, I'm [Will C](https://www.williamchastain.com) 👋
 
-## About me
+I'm 20, studying Computer Science & Engineering (minor in Philosophy) at Bucknell University. I work on applied LLM engineering: building AI agents and multi-agent systems, mostly with the Claude Agent SDK, [MCP](https://modelcontextprotocol.io), and [LangGraph](https://github.com/langchain-ai/langgraph), and wiring them into real applications. Right now I'm building agent systems as an engineer at GenesisX and Gold Coast Search Partners.
 
-I'm 20, studying Computer Science and Engineering at Bucknell University as a brother of the Sigma Alpha Epsilon fraternity. My interests lie in applied LLM engineering. I'm particularly drawn towards orchestrating LLMs with [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) *(often in the form of agents and workflows)* and integrating them into larger applications.
+Off the screen, I'm a philosophy person. I think a lot about ethics, consciousness, metaphysics, and care deeply about building capable systems responsibly.
 
-## What I'm working on
+## What I'm building
 
-My current project, [Cogito](https://github.com/CrazyWillBear/research-langgraph), is a philosophy research agent that will later be implemented into a full-scale chat application. My friend [gloggers99](https://github.com/gloggers99) is focusing on the backend in Rust while I focus on the agent/LLM orchestration.
+- **[Cogito](https://cogito.williamchastain.com)** (live): a full-stack AI philosophy research agent. It searches a 1.7M-embedding corpus of philosophy texts through six MCP research servers and synthesizes cited, evidence-backed answers.
+- **[Sosa](https://github.com/CrazyWillBear/sosa)**: a LangGraph-based ReAct agent framework with persistent memory, an editable personality, MCP support, and a sandboxed bash tool. Pluggable across OpenAI, Anthropic, Groq, and Ollama.
+- **[my-dotclaude](https://github.com/CrazyWillBear/my-dotclaude)**: my Claude Code setup, including an autonomous multi-agent dev loop that fans out parallel agents in isolated git worktrees and merges their work in dependency order.
 
-## Other stuff you should check out:
-- [blogman](https://github.com/CrazyWillBear/blogman) or [the actual blog](https://blog.williamchastain.com)
-   - A blog engine/managing software that allows posts to be easily written in Markdown and automatically implemented.
-- [key](https://github.com/CrazyWillBear/key)
-   - A command-line utility for securely encrypting and decrypting files using a key + password combo.
-- [ufc_prediction_model](https://github.com/CrazyWillBear/ufc_prediction_model)
-   - A neural network model that predicts UFC fight outcomes trained on historical fight data.
+## Other things I've made
 
-## How to reach me:
-- <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-u2013-swiss-geeks-23.png" width="16" height="16" /> Discord: [@capbear](https://discord.com/users/480455714272444426)
-- <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" width="16" height="16" /> Email: [will.chastain@bucknell.edu](mailto:will.chastain@bucknell.edu)
+- **[ufc_prediction_model](https://github.com/CrazyWillBear/ufc_prediction_model)**: a neural network that predicts UFC fight outcomes from historical fight data.
+- **[blogman](https://github.com/CrazyWillBear/blogman)** (powers [my blog](https://blog.williamchastain.com)): a Markdown-driven blog engine that turns posts into a live site automatically.
+- **[key](https://github.com/CrazyWillBear/key)**: a command-line utility for encrypting and decrypting files with a key + password.
 
-## Favorite Quotes:
-"Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good."  - *Meditations* by Marcus Aurelius
+## Reach me
 
-"The world is my representation."  - *The World as Will and Representation* by Arthur Schopenhauer
+[![Website](https://img.shields.io/badge/Website-williamchastain.com-1f6feb?style=flat)](https://www.williamchastain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.williamchastain.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:williamchastain2005@gmail.com)
+
+## Favorite quotes
+
+> "Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good."
+> — *Meditations*, Marcus Aurelius
+
+> "The world is my representation."
+> — *The World as Will and Representation*, Arthur Schopenhauer
 
 ![Metrics](https://github.com/CrazyWillBear/CrazyWillBear/blob/main/github-metrics.svg)
