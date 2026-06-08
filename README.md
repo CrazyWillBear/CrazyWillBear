@@ -12,7 +12,6 @@ Off the screen, I'm a philosophy person. I think a lot about ethics, consciousne
 
 ## Other things I've made
 
-- **[ufc_prediction_model](https://github.com/CrazyWillBear/ufc_prediction_model)**: a neural network that predicts UFC fight outcomes from historical fight data.
 - **[blogman](https://github.com/CrazyWillBear/blogman)** (powers [my blog](https://blog.williamchastain.com)): a Markdown-driven blog engine that turns posts into a live site automatically.
 - **[key](https://github.com/CrazyWillBear/key)**: a command-line utility for encrypting and decrypting files with a key + password.
 
